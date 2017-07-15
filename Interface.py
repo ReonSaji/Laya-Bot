@@ -2,6 +2,7 @@
 #
 #
 # Project name : Lisa
+#Version : 2
 #
 # A simple chat-Bot.
 #
