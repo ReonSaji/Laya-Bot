@@ -1,5 +1,5 @@
 #
-# Splash text for Lisa
+# Splash text for Lisa Bot
 #
 #
 
